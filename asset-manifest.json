@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/web_mic/static/css/main.d1b05096.chunk.css",
+    "main.js": "/web_mic/static/js/main.b21e6ce0.chunk.js",
+    "main.js.map": "/web_mic/static/js/main.b21e6ce0.chunk.js.map",
+    "runtime-main.js": "/web_mic/static/js/runtime-main.ac45831c.js",
+    "runtime-main.js.map": "/web_mic/static/js/runtime-main.ac45831c.js.map",
+    "static/js/2.af0dd8d1.chunk.js": "/web_mic/static/js/2.af0dd8d1.chunk.js",
+    "static/js/2.af0dd8d1.chunk.js.map": "/web_mic/static/js/2.af0dd8d1.chunk.js.map",
+    "index.html": "/web_mic/index.html",
+    "precache-manifest.6e2b9a17724492d0212671e7e2e89b53.js": "/web_mic/precache-manifest.6e2b9a17724492d0212671e7e2e89b53.js",
+    "service-worker.js": "/web_mic/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/web_mic/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.af0dd8d1.chunk.js.LICENSE": "/web_mic/static/js/2.af0dd8d1.chunk.js.LICENSE",
+    "static/media/start-recording.mp3": "/web_mic/static/media/start-recording.18e33794.mp3",
+    "static/media/stop-recording.mp3": "/web_mic/static/media/stop-recording.9273b816.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac45831c.js",
+    "static/js/2.af0dd8d1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.b21e6ce0.chunk.js"
+  ]
+}
